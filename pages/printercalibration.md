@@ -1,5 +1,6 @@
 # Calibrating your 3D Printer
 
+<!-- TODO: Specific Instructions for steps -->
 Your printer calibration is crucial for optimal performance. The following are the steps in chronological order.
 
 Calibration should be done on a schedule basis or after every part adjustment or upgrade.
