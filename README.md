@@ -1,8 +1,8 @@
 # The 3D Printing Guide
 
-This guide is made to help beginners, enthusiasts, makers and others to build, improve, fix or understand 3D printers. Think of it as a handy cheat sheet that is concise and has most general information.
+This guide is made to help beginners, enthusiasts, makers and others to build, improve, fix or understand 3D printers. Think of it as a handy cheat sheet that is concise and has most information you care about.
 
-Feel free to make any contributions. They are greatly appreciated.
+Also, feel free to make any contributions. They are greatly appreciated.
 
 ## Chapter Overview
 
@@ -34,4 +34,4 @@ At the moment, most instructions/guides are concise and brief. In the future, mo
 
 ### Printer Maintenance
 
-[3D Printer Maintenance Tips](/pages/maintenancetips.md)
+1. [3D Printer Maintenance Tips](/pages/maintenancetips.md)
