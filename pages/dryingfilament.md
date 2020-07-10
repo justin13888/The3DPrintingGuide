@@ -8,6 +8,8 @@ Different filaments have different and varying degrees of signs of being too moi
 
 <!-- TODO: Add pictures or diagrams of common symptoms -->
 
+!["Fuzzy" surfaces are a sign of wet filament (Source: MatterHackers)](https://i.all3dp.com/cdn-cgi/image/fit=cover,w=1000,gravity=0.5x0.5,format=auto/wp-content/uploads/2018/10/31132540/fuzzy-surfaces-are-a-sign-of-wet-filament-matterhackers-181027.jpg)
+
 The following are common symptoms of wet filament:
 
 - Popping or cracking sounds during extrusion
