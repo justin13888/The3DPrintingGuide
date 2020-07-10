@@ -20,7 +20,7 @@ The bed surface help with bed adhesion and can be removed easily after prints. B
 
 ## Bed Leveling
 
-Bed leveling, as the term suggests, compensates for level build surfaces to ensure the optimal bed adhesion and base surface quality. Learn more in [this article](/pages/bedleveling.md).
+Bed leveling, as the term suggests, compensates for level build surfaces to ensure the optimal bed adhesion and base surface quality.
 
 ## Extruders
 
