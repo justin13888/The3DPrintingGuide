@@ -1,4 +1,4 @@
-# Informational Links and References
+# Other Informational Links and References
 
 ## Part Upgrading
 
