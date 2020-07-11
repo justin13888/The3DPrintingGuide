@@ -1,28 +1,28 @@
 # 3D Printer Anatomy
 
-This article will focus on the common type of 3D Printer: FDM or FFF.
+This is a list of most 3D Printer components with its basic function(s).
 
 ![Illustrated Diagaram of the 3D Printer Anatomy (Source: MatterHackers)](https://lh3.googleusercontent.com/vy2gmNQu0ZCXauAxKtD2J1Q6jinZmBU9fxo-nE17DEJdg-vVKAOPm-tqx42aaXFn5G8y2h4jdkqGXZKDovjJUfh1Pzs)
 
-## Frame
+## [Frame](frame.md)
 
 The Frame is a structural component of 3D Printers and must withstand the mechanical loads that the motion system generates. It is the foundation of a 3D printer and largely determines its size and structural rigidity. Most printers today use aluminum (or aluminium) extrusions although early printers used materials such as lasercut plywood.
 
-## Print Bed
+## [Print Bed](bed.md)
 
 The print bed is the surface which the object is printed on. There are various materials such as glass or aluminium and can be heated which help adhesion for many filament materials.
 
 Most print beds are heated in order to prevent warping due to thermal contraction.
 
-## Bed Surfaces
+## [Bed Surface](bedsurface.md)
 
 The bed surface help with bed adhesion and can be removed easily after prints. Bed surfaces come with many different materials so for best results, invest in a build surface best suited for the print material.
 
-## Bed Leveling
+## [Bed Leveling](bedleveling.md)
 
 Bed leveling, as the term suggests, compensates for level build surfaces to ensure the optimal bed adhesion and base surface quality.
 
-## Extruders
+## [Extruder](extruder.md)
 
 There are two main categories of extruders: Direct-drive (DD) and Bowden. Some are geared down to allow for a weaker motor and some are dual-drive to improve filament grip.
 
@@ -59,7 +59,7 @@ Con's:
 - **Slower Retractions**: Due to the less contrained Bowden tube, longer retractions are usually needed to avoid stringing.
 - **Smaller Range of Materials**: Some flexible or abrasive materials easily bind or wear the Bowden tube.
 
-## Hot End
+## [Hot End](hotend.md)
 
 The hot end is responsible for heating and extruding the filament. All metal hot ends are able to reach much higher temperatures and print a wider range of materials. On the contrary, PTFE or PEEK lined hot ends are usually more affordable but can only print at a lower temperature and a smaller range of materials.
 
@@ -81,7 +81,7 @@ The nozzle is threaded at the end of the hotend where the melted filament is ext
 
 This fan immediately cools down the extruded plastic which help certain filaments hold its shape.
 
-## Motion System
+## [Motion System](motionsystem.md)
 
 The Motion system consist of the components that make up the linear motion mechanism, such as stepper motors, lead screws, timing belts, etc. There are various types of Cartesian motion systems such as the Mendel-style, H-Bot, CoreXY, each with their strengths and weaknesses.
 
@@ -103,7 +103,7 @@ Belts are usually used for translating the rotational force of the X and Y motor
 
 Stepper motors rotate in specific increments, allowing precise control over their position. Most printers today use NEMA 17.
 
-## Electrical Components
+## [Electrical Components](electrical.md)
 
 ### Power Supply
 
@@ -120,3 +120,14 @@ These chips control the stepper motors through the voltage and current. Most mot
 ### Screens and Other User Interfaces
 
 Some printers have a screen that can directly control the printer. Some are basic black and white displays while others are multi-coloured touchscreens.
+
+## Further Reading
+
+- [Frame](frame.md)
+- [Print Bed](bed.md)
+- [Bed Surface](bedsurface.md)
+- [Bed Leveling](bedleveling.md)
+- [Extruder](extruder.md)
+- [Hot End](hotend.md)
+- [Motion System](motionsystem.md)
+- [Electrical Components](electrical.md)
