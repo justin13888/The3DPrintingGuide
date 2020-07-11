@@ -1,4 +1,4 @@
-# Choosing the right 3D Printing Material
+# Choosing the Right 3D Printing Material
 
 When choosing materials to use for your application, you should focus on the following:
 

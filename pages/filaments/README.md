@@ -1,5 +1,6 @@
 # Filaments
 
-1. [Deciding on 3D Printing Material](choosingfilament.md)
+1. [Choosing the Right 3D Printing Material](choosingfilament.md)
 2. [Filament Reference Table](filamentreference.md)
-3. [Drying Filament](dryingfilament.md)
+3. [Filament Guides](guides/README.md)
+4. [Drying Filament](dryingfilament.md)
