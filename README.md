@@ -1,8 +1,8 @@
 # The 3D Printing Guide
 
-This is an unbiased guide, made to help enthusiasts, makers and others, to build, improve, fix or understand solely the most common type of desktop 3D printer, Cartesian fused deposition modeling (FDM), or fused filament fabrication (FFF), printers. Think of it as a handy cheat sheet that is concise and has most information you care about.
+This is an unbiased guide, made to help enthusiasts, makers and others, to build, improve, fix or understand solely the most common type of desktop 3D printer, Cartesian fused deposition modeling (FDM), or fused filament fabrication (FFF), printers. Think of it as a handy cheat sheet that is concise and has most information you care about. The goal is not to restate information that is easily accessible, particular to certain products or biased but consolidate knowledge for the public to understand 3D printers as a whole.
 
-Also, feel free to make any contributions. They are greatly appreciated.
+Feel free to make any contributions as they are greatly appreciated. 3D printing is constantly improving and becoming more accessible. New technologies are invented and old patents expire common. So making sure this guide is up-to-date and correct makes sure that it will stay relevant and reliable.
 
 ## Chapter Overview
 
@@ -37,4 +37,7 @@ At the moment, most articles are concise and brief. In the future, more detailed
 - AC mains powered bed (refer [here](https://www.youtube.com/watch?v=1VyFejiKkSQ))
 - Testing Marlin safety features
 - PSU relay control (refer [here](https://www.youtube.com/watch?v=ozCqqlPJ3a0))
-- What are microsteps and how to determine what to set
+- Firmware setup (Marlin)
+  - What are microsteps and how to determine what to set to
+- Finishing 3D Prints
+- Changing nozzles or filament
