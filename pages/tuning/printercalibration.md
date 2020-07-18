@@ -1,6 +1,7 @@
 # Calibrating your 3D Printer
 
 <!-- TODO: Specific Instructions for steps -->
+
 Your printer calibration is crucial for optimal performance. The following are the steps in chronological order.
 
 Calibration should be done on a schedule basis or after every part adjustment or upgrade.
@@ -10,17 +11,19 @@ If you are unsure on how to do any of the following steps, you may have to find 
 ## General Steps
 
 1. Calibrate E steps.
-    - Use a ruler to measure the actual extruded amount versus the requested amount.
+   - Use a ruler to measure the actual extruded amount versus the requested amount.
 2. Calibrate steps for other axes.
-    - Print a calibration cube for the X,Y and Z axes.
-3. PID autotune the hotend and bed.
+   - Print a calibration cube for the X,Y and Z axes.
+3. PID auto-tune the hotend and bed.
 
 ## Filament-specific Steps
 
 1. Do a heat tower test for finding the ideal filament temperature.
-2. Do retraction tests to find your ideal retraction setting.
-3. Calibrate linear advance (a.k.a. pressure advance) for the targetted print speed.
+2. Calibrate linear advance (a.k.a. pressure advance) for the targeted print speed.
+3. Determine fastest, reliable extrusion speed.
+   - Calculate the maximum flow rate of extruder and feed rate of extruder.
 4. Tuning acceleration and junction deviation.
+5. Do retraction tests to find your ideal retraction setting.
 
 ## Additional Resources
 
