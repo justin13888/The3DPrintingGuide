@@ -2,21 +2,21 @@
 
 This is a list of most 3D Printer components with its basic function(s).
 
-![Illustrated Diagaram of the 3D Printer Anatomy (Source: MatterHackers)](https://lh3.googleusercontent.com/vy2gmNQu0ZCXauAxKtD2J1Q6jinZmBU9fxo-nE17DEJdg-vVKAOPm-tqx42aaXFn5G8y2h4jdkqGXZKDovjJUfh1Pzs)
+![Illustrated Diagram of the 3D Printer Anatomy (Source: MatterHackers)](https://lh3.googleusercontent.com/vy2gmNQu0ZCXauAxKtD2J1Q6jinZmBU9fxo-nE17DEJdg-vVKAOPm-tqx42aaXFn5G8y2h4jdkqGXZKDovjJUfh1Pzs)
 
 ## [Frame](frame.md)
 
-The Frame is a structural component of 3D Printers and must withstand the mechanical loads that the motion system generates. It is the foundation of a 3D printer and largely determines its size and structural rigidity. Most printers today use aluminum (or aluminium) extrusions although early printers used materials such as lasercut plywood.
+The Frame is a structural component of 3D Printers and must withstand the mechanical loads that the motion system generates. It is the foundation of a 3D printer and largely determines its size and structural rigidity. Most printers today use aluminum (or aluminum) extrusions although early printers used materials such as laser-cut plywood.
 
 ## [Print Bed](bed.md)
 
-The print bed is the surface which the object is printed on. There are various materials such as glass or aluminium and can be heated which help adhesion for many filament materials.
+The print bed is the surface which the object is printed on. There are various materials such as glass or aluminum and can be heated which help adhesion for many filament materials.
 
 Most print beds are heated in order to prevent warping due to thermal contraction.
 
-## [Bed Surface](bedsurface.md)
+## [Print Surface](printsurface.md)
 
-The bed surface help with bed adhesion and can be removed easily after prints. Bed surfaces come with many different materials so for best results, invest in a build surface best suited for the print material.
+The print surface help with bed adhesion and can be removed easily after prints. Print surfaces come with many different materials so for best results, invest in a build surface best suited for the print material.
 
 ## [Bed Leveling](bedleveling.md)
 
@@ -28,23 +28,13 @@ There are two main categories of extruders: Direct-drive (DD) and Bowden. Some a
 
 ![Illustrated diagram of the extruder (Source: MatterHackers)](https://lh3.googleusercontent.com/76t-Q-wj6qCWPOeIJXgB46fNZTGKU9IS8LXmu7PbQuA46x8-y93xbOAACS2vUgTeU66FlCmKKC3wlRMBOYMUV9Gx_A)
 
-## [Hot End](hotend.md)
+## [Hotend](hotend.md)
 
-The hot end is responsible for heating and extruding the filament. All metal hot ends are able to reach much higher temperatures and print a wider range of materials. On the contrary, PTFE or PEEK lined hot ends are usually more affordable but can only print at a lower temperature and a smaller range of materials.
+The hotend is responsible for heating and extruding the filament. All metal hotends are able to reach much higher temperatures and print a wider range of materials. On the contrary, PTFE or PEEK lined hotends are usually more affordable but can only print at a lower temperature and a smaller range of materials.
 
 ### Heater Cartridge
 
 As the name suggests, the heater cartridge heats up the hotend and in turn the filament.
-
-### Thermistor, Thermocouple and RTD
-
-Thermistors, thermocouples and RTDs are all common types of sensors that measure temperature.
-
-<!-- TODO: Explain benefits and weaknesses of each type -->
-
-### Nozzle
-
-The nozzle is threaded at the end of the hotend where the melted filament is extruded. They are interchangeable and come in varioius materials and sizes. 0.4 mm is the most common and all-purpose size that most printers come default with.
 
 ### Part Cooling Fan
 
@@ -60,9 +50,9 @@ The Motion system consist of the components that make up the linear motion mecha
 
 These are small, usually inexpensive switches that are closed when an axis moves to the end. They are most commonly used during homing.
 
-### Leadscrews or Threaded Rods
+### Lead Screws or Threaded Rods
 
-These are usually used on a cartesian printer's Z axis although other axes can use it as well. Leadscrews are usually very difficult to machine and is somewhat untrue. Therefore, it is usually best to avoid over-constraining leadscrews such as adding a fixed bearing around multiple ends of a leadscrew.
+These are usually used on a cartesian printer's Z axis although other axes can use it as well. Lead screws are usually very difficult to machine and is somewhat untrue. Therefore, it is usually best to avoid over-constraining lead screws such as adding a fixed bearing around multiple ends of a lead screw.
 
 ### Belts
 
@@ -70,7 +60,7 @@ Belts are usually used for translating the rotational force of the X and Y motor
 
 ### Stepper Motors
 
-Stepper motors rotate in specific increments, allowing precise control over their position. Most printers today use NEMA 17.
+Stepper motors rotate in specific increments, allowing precise control over their position. Most printers today use NEMA 17 motors.
 
 ## [Electrical Components](electrical.md)
 
@@ -94,9 +84,9 @@ Some printers have a screen that can directly control the printer. Some are basi
 
 - [Frame](frame.md)
 - [Print Bed](bed.md)
-- [Bed Surface](bedsurface.md)
+- [Print Surface](printsurface.md)
 - [Bed Leveling](bedleveling.md)
 - [Extruder](extruder.md)
-- [Hot End](hotend.md)
+- [Hotend](hotend.md)
 - [Motion System](motionsystem.md)
 - [Electrical Components](electrical.md)
