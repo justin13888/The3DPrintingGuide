@@ -22,7 +22,7 @@
 When deciding on the right size of printer, you have to make a compromise between:
 
 1. Size
-2. Affordablility
+2. Affordability
 3. Speed and Quality
 
 As an idea, you can have two printers: one for small, precise and high quality parts and one for large parts or batches.
