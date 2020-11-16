@@ -13,7 +13,7 @@
 - More expensive to scale
   - May require a stiffer frame
   - E.g. 500x500 heated bed may cost three times a 300x300 heated bed.
-  - Requires higher tolerance as all small defects can become large
+  - Requires tighter tolerances as all small defects can become much larger
   - Takes up more space
   - Requires larger belts
 
