@@ -27,6 +27,12 @@ If you are unsure on how to do any of the following steps, you may have to find 
 
 ## Additional Resources
 
+<!-- TODO: Clean up extra details, leaving essentials -->
+
+- [Superjamie's Callibration Guide](https://github.com/superjamie/lazyweb/wiki/3D-Printing-Calibration)
+- [Tom Sanladerer's Guides](https://www.youtube.com/playlist?list=PLDJMid0lOOYnRCAdbFfzECor3EbqF8euw)
+- [Maker's Muse 3D Printing 101](https://www.youtube.com/playlist?list=PLTCCNNvHC8PDR_jQy609toqq8EAfhiOOL)
+
 - [20mm Calibration Cube](https://www.thingiverse.com/thing:1278865) by iDig3Dprinting
 - [How to tune your slicer settings featuring Ender 3](https://www.youtube.com/watch?v=3yIebnVjADM) by Teaching Tech
   - [Heat Tower](https://www.thingiverse.com/thing:2223651) by Akiland

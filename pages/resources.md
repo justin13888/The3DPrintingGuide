@@ -18,3 +18,7 @@
 - [Stock vs Teaching Tech's Upgraded Ender 3](https://www.youtube.com/watch?v=5ipVDnm3AKY)
 - [400mm x 400mm Ender 3 Extender Kit](https://www.youtube.com/watch?v=Qi6Qo-SY2pk)
 - [CoreXY Conversion Kit for Ender 3](https://www.youtube.com/watch?v=2tiOWzqP8As)
+
+## Miscellaneous
+
+- [RepRap Wiki](http://reprap.org/wiki)

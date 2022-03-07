@@ -46,3 +46,7 @@ Specialized products like BuildTak are adhesive sheets that can be applied to mo
 ### Acrylic
 
 Acrylic and some other plastic build plates can be used but is very uncommon. Theoretically, it could work but there are much better alternatives.
+
+## Additional Resources
+
+- [3D Printing Bed Adhesion · superjamie/lazyweb Wiki](https://github.com/superjamie/lazyweb/wiki/3D-Printing-Bed-Adhesion)

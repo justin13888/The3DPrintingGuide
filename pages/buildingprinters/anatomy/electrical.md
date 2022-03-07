@@ -6,6 +6,11 @@
 
 The power supply converts the grid electricity from the wall into low voltage DC power that can be consumed by the printer. Although 3D printer traditionally ran on 12 volt systems, today, 24 volt systems have become the norm.
 
+Factors to consider:
+- Rated power capacity
+- Voltage (e.g. 24V, 48V)
+- Fan noise (depends on intended operating environment)
+
 ### Stepper Motors
 
 Stepper motors rotate in specific increments (e.g. 1.8°/step), allowing precise control over their position. Most 3D printers today use NEMA 17 motors.
@@ -13,6 +18,14 @@ Stepper motors rotate in specific increments (e.g. 1.8°/step), allowing precise
 ### Controller Board
 
 This is the brain's of the printer that parses and executes the commands in G-Code. In the past, many printers ran on Arduino boards with add-on boards called a "shield". Today however, it is much more common to find printers with dedicated microcontroller boards. Although 8-bit boards have been the standard for some time, increasingly common and faster 32-bit boards offer stronger processing speeds and allow for more advanced firmware features.
+
+General things to look for:
+- Power input (e.g. 12V, 24V)
+- Stepper drivers supported (i.e. types and quantity)
+    - Are they integrated or replaceable
+- IO (e.g. heater, thermistor output)
+- Firmware support
+- Microcontroller (note: performance is likely adequate nowadays, especially if klipper is used)
 
 ### Stepper Drivers
 
